@@ -1,18 +1,24 @@
-# Flappy-bird
+**# Flappy-bird**
 ![image](https://github.com/user-attachments/assets/05d9dab7-4b83-483f-9bd5-99a42e271531)
 
 # Flappy Bird Game Design Document
 
 A comprehensive GDD for a Flappy Bird game would include:
 
-## Game Overview
+##🤖 About The Game
 • Simple side-scrolling game where players control a bird through 
 obstacles
 • One-touch gameplay mechanic (tap to make the bird flap and rise)
 • Endless runner style with increasing difficulty
 • Pixel art visual style with bright colors
 
-## Game Structure
+##🚀 How to play it
+
+1. Install pygame : pip install pygame
+2. Clone the repository
+3. Run the game : python3 main.py
+
+**## Game Structure**
 ```
 /flappy_adventure/
 ├── assets/
@@ -110,6 +116,3 @@ obstacles
 • Testing and balancing
 • Release and post-launch support
 
-This document would serve as the blueprint for developing the Flappy Bird
-game, providing clear direction for programmers, artists, and other team
-members involved in the project.
