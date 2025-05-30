@@ -13,6 +13,7 @@ obstacles
 • Pixel art visual style with bright colors
 
 ## Game Structure
+```
 /root/Flappy-bird/flappy_adventure/
 ├── assets/
 │   ├── images/
@@ -65,6 +66,7 @@ obstacles
 ├── index.html
 ├── style.css
 └── config.js
+```
 
 ## Core Mechanics
 • Gravity pulls the bird downward constantly
