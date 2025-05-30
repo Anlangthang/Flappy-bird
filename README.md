@@ -5,14 +5,14 @@
 
 A comprehensive GDD for a Flappy Bird game would include:
 
-##🤖 About The Game
+## 🤖 About The Game
 • Simple side-scrolling game where players control a bird through 
 obstacles
 • One-touch gameplay mechanic (tap to make the bird flap and rise)
 • Endless runner style with increasing difficulty
 • Pixel art visual style with bright colors
 
-##🚀 How to play it
+## 🚀 How to play it
 
 1. Install pygame : pip install pygame
 2. Clone the repository
