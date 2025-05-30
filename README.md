@@ -1,4 +1,4 @@
-**# Flappy-bird**
+# Flappy-bird
 ![image](https://github.com/user-attachments/assets/05d9dab7-4b83-483f-9bd5-99a42e271531)
 
 # Flappy Bird Game Design Document
@@ -18,7 +18,7 @@ obstacles
 2. Clone the repository
 3. Run the game : python3 main.py
 
-**## Game Structure**
+## Game Structure
 ```
 /flappy_adventure/
 ├── assets/
