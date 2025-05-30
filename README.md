@@ -12,6 +12,60 @@ obstacles
 • Endless runner style with increasing difficulty
 • Pixel art visual style with bright colors
 
+## Game Structure
+/root/Flappy-bird/flappy_adventure/
+├── assets/
+│   ├── images/
+│   │   ├── bird/
+│   │   │   ├── bird_frame1.png
+│   │   │   ├── bird_frame2.png
+│   │   │   └── bird_frame3.png
+│   │   ├── background/
+│   │   │   ├── background.png
+│   │   │   ├── ground.png
+│   │   │   └── clouds.png
+│   │   ├── pipes/
+│   │   │   ├── pipe_top.png
+│   │   │   └── pipe_bottom.png
+│   │   └── ui/
+│   │       ├── title.png
+│   │       ├── game_over.png
+│   │       ├── medals.png
+│   │       └── buttons.png
+│   ├── audio/
+│   │   ├── sfx/
+│   │   │   ├── flap.wav
+│   │   │   ├── score.wav
+│   │   │   ├── hit.wav
+│   │   │   └── die.wav
+│   │   └── music/
+│   │       └── background_music.mp3
+│   └── fonts/
+│       └── game_font.ttf
+├── src/
+│   ├── main.js
+│   ├── game.js
+│   ├── entities/
+│   │   ├── bird.js
+│   │   ├── pipe.js
+│   │   └── ground.js
+│   ├── scenes/
+│   │   ├── title_scene.js
+│   │   ├── game_scene.js
+│   │   └── game_over_scene.js
+│   ├── managers/
+│   │   ├── asset_manager.js
+│   │   ├── audio_manager.js
+│   │   ├── score_manager.js
+│   │   └── obstacle_manager.js
+│   └── utils/
+│       ├── physics.js
+│       ├── collision.js
+│       └── animation.js
+├── index.html
+├── style.css
+└── config.js
+
 ## Core Mechanics
 • Gravity pulls the bird downward constantly
 • Each tap/click makes the bird flap upward briefly
