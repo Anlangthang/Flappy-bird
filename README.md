@@ -11,6 +11,7 @@ obstacles
 • One-touch gameplay mechanic (tap to make the bird flap and rise)
 • Endless runner style with increasing difficulty
 • Pixel art visual style with bright colors
+![image](https://github.com/user-attachments/assets/08ad3eb7-f8f0-48ac-8935-e3de68bcc26e)
 
 ## 🚀 How to play it
 
@@ -115,4 +116,8 @@ obstacles
 • UI and menus
 • Testing and balancing
 • Release and post-launch support
+
+# How I build it 
+
+## 
 
