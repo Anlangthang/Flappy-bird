@@ -118,6 +118,10 @@ obstacles
 • Release and post-launch support
 
 # How I build it 
+## Description
 
-## 
+## Requirements
+1. Install Amazon Q cli : https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line-installing.html
+2. Installl Pygame
+3. You can choose 
 
