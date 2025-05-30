@@ -14,7 +14,7 @@ obstacles
 
 ## Game Structure
 ```
-/root/Flappy-bird/flappy_adventure/
+/flappy_adventure/
 ├── assets/
 │   ├── images/
 │   │   ├── bird/
